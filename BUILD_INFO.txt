@@ -1,0 +1,4 @@
+Chemical Engineering Learning Tools site
+Version: 0.3
+Build: Clean text/contact GitHub Pages build
+Date: 2026-09-26
