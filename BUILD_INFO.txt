@@ -1,4 +1,4 @@
-Chemical Engineering Learning Tools site
-Version: 0.3
-Build: Clean text/contact GitHub Pages build
-Date: 2026-09-26
+CEL_Site v0.4 — light-theme redesign and two new tool pages
+Local review build — not yet deployed
+Based on the supplied v0.3 website archive.
+GitHub repository metadata deliberately excluded from distribution.

@@ -14,3 +14,7 @@ Double-click `run_CEL_Site.bat` and open `http://127.0.0.1:8000`.
 
 ## Intended public repository
 `ChemEngLearningTools/chemenglearningtools.github.io`
+
+
+## v0.4 local review
+Light-theme redesign; added ChemEngPropertyPot and ChemEngBench pages. See V0_4_REVIEW_NOTES.md.
