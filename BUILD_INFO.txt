@@ -1,4 +1,4 @@
-CEL_Site v0.4 — light-theme redesign and two new tool pages
-Local review build — not yet deployed
-Based on the supplied v0.3 website archive.
-GitHub repository metadata deliberately excluded from distribution.
+CEL Site v0.5 — local review build
+Date: 2026-10-29
+Status: NOT DEPLOYED. Owner local review required before GitHub commit/push.
+Based on v0.4 local review archive accepted/deployed on 2026-10-21.

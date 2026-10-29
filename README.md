@@ -18,3 +18,7 @@ Double-click `run_CEL_Site.bat` and open `http://127.0.0.1:8000`.
 
 ## v0.4 local review
 Light-theme redesign; added ChemEngPropertyPot and ChemEngBench pages. See V0_4_REVIEW_NOTES.md.
+
+## v0.5 local review (29 October 2026)
+
+Adds KineticFittingPot page and homepage card, targeted search descriptions, related-tool links, sitemap entry and cache-busting stylesheet URLs. Not deployed until approved.
